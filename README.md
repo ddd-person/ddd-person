@@ -1,5 +1,5 @@
 ### 📫 找到我
 如果你对后端架构、AI 落地感兴趣，或者纯粹想看底层逻辑的深度好文，欢迎扫码关注我的公众号：
 <p align="left">
-  <img src="duck.jpg" width="220" alt="公众号二维码鸭鸭版">
+  <img src="duckcode.jpg" width="220" alt="公众号二维码鸭鸭版">
 </p>
